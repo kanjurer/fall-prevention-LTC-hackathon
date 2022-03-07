@@ -1,4 +1,4 @@
-# Hackathon project: Organized by Shannex
+Hackathon project: Organized by Shannex
 
 # Challenge Statement:
 Frail, older adults living in LTC are at increased risk of falling, resulting in adverse consequences such as hospitalization, hip fracture, and even death. Several fall prevention strategies have been adopted in LTC to reduce falling among residents and fall rate is a key performance indicator (KPI) for LTC providers. How can the data sources provided expand our understanding of falling among LTC residents and how can it be used to improve prevention through predictive modeling?
